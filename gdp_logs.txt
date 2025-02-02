@@ -1,0 +1,564 @@
+2025-Jan-08-23:27:45,ETL process started
+2025-Jan-08-23:27:45,EXTRACTION process started
+2025-Jan-08-23:27:48,EXTRACTION process finished
+2025-Jan-08-23:27:48,Transformed process started
+2025-Jan-08-23:27:48,Transformed process finished
+2025-Jan-08-23:27:48,Load process started
+2025-Jan-08-23:27:48,Load process finished
+2025-Jan-08-23:30:00,ETL process started
+2025-Jan-08-23:30:00,EXTRACTION process started
+2025-Jan-08-23:30:02,EXTRACTION process finished
+2025-Jan-08-23:30:02,Transformed process started
+2025-Jan-08-23:30:02,Transformed process finished
+2025-Jan-08-23:30:02,Load process started
+2025-Jan-08-23:30:02,Load process finished
+2025-Jan-08-23:30:02,Run query Select * From Countries_by_GDP
+2025-Jan-08-23:30:02,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-08-23:30:02,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-08-23:30:02,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-11-03:47:40,ETL process started
+2025-Jan-11-03:47:40,EXTRACTION process started
+2025-Jan-11-03:47:43,EXTRACTION process finished
+2025-Jan-11-03:47:43,Transformed process started
+2025-Jan-11-03:47:43,Transformed process finished
+2025-Jan-11-03:47:43,Load process started
+2025-Jan-11-03:47:43,Load process finished
+2025-Jan-11-03:47:43,Run query Select * From Countries_by_GDP
+2025-Jan-11-03:47:43,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-11-03:47:43,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-11-03:47:43,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-00:56:37,ETL process started
+2025-Jan-13-00:56:37,EXTRACTION process started
+2025-Jan-13-00:56:40,EXTRACTION process finished
+2025-Jan-13-00:56:40,Transformed process started
+2025-Jan-13-00:56:40,Transformed process finished
+2025-Jan-13-00:56:40,Load process started
+2025-Jan-13-00:56:40,Load process finished
+2025-Jan-13-00:56:40,Run query Select * From Countries_by_GDP
+2025-Jan-13-00:56:40,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-00:56:40,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-00:56:40,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-01:08:56,ETL process started
+2025-Jan-13-01:08:56,EXTRACTION process started
+2025-Jan-13-01:09:01,EXTRACTION process finished
+2025-Jan-13-01:09:01,Transformed process started
+2025-Jan-13-01:09:01,Transformed process finished
+2025-Jan-13-01:09:01,Load process started
+2025-Jan-13-01:09:01,Load process finished
+2025-Jan-13-01:09:01,Run query Select * From Countries_by_GDP
+2025-Jan-13-01:09:01,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-01:09:01,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-01:09:01,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-19:35:42,ETL process started
+2025-Jan-13-19:35:42,EXTRACTION process started
+2025-Jan-13-19:35:45,EXTRACTION process finished
+2025-Jan-13-19:35:45,Transformed process started
+2025-Jan-13-19:35:45,Transformed process finished
+2025-Jan-13-19:35:45,Load process started
+2025-Jan-13-19:35:45,Load process finished
+2025-Jan-13-19:35:45,Run query Select * From Countries_by_GDP
+2025-Jan-13-19:35:45,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-19:35:45,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-19:35:45,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-20:27:43,ETL process started
+2025-Jan-13-20:27:43,EXTRACTION process started
+2025-Jan-13-20:27:46,EXTRACTION process finished
+2025-Jan-13-20:27:46,Transformed process started
+2025-Jan-13-20:27:46,Transformed process finished
+2025-Jan-13-20:27:46,Load process started
+2025-Jan-13-20:27:46,Load process finished
+2025-Jan-13-20:27:46,Run query Select * From Countries_by_GDP
+2025-Jan-13-20:27:46,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-20:27:46,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-20:27:46,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-20:28:08,ETL process started
+2025-Jan-13-20:28:08,EXTRACTION process started
+2025-Jan-13-20:28:09,EXTRACTION process finished
+2025-Jan-13-20:28:09,Transformed process started
+2025-Jan-13-20:28:09,Transformed process finished
+2025-Jan-13-20:28:09,Load process started
+2025-Jan-13-20:28:09,Load process finished
+2025-Jan-13-20:28:09,Run query Select * From Countries_by_GDP
+2025-Jan-13-20:28:09,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-20:28:09,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-20:28:09,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-20:29:17,ETL process started
+2025-Jan-13-20:29:17,EXTRACTION process started
+2025-Jan-13-20:29:22,EXTRACTION process finished
+2025-Jan-13-20:29:22,Transformed process started
+2025-Jan-13-20:29:22,Transformed process finished
+2025-Jan-13-20:29:22,Load process started
+2025-Jan-13-20:29:22,Load process finished
+2025-Jan-13-20:29:22,Run query Select * From Countries_by_GDP
+2025-Jan-13-20:29:22,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-20:29:22,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-20:29:22,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-20:31:44,ETL process started
+2025-Jan-13-20:31:44,EXTRACTION process started
+2025-Jan-13-20:31:45,EXTRACTION process finished
+2025-Jan-13-20:31:45,Transformed process started
+2025-Jan-13-20:31:45,Transformed process finished
+2025-Jan-13-20:31:45,Load process started
+2025-Jan-13-20:31:45,Load process finished
+2025-Jan-13-20:31:45,Run query Select * From Countries_by_GDP
+2025-Jan-13-20:31:45,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-20:31:45,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-20:31:45,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:00:06,ETL process started
+2025-Jan-13-21:00:06,EXTRACTION process started
+2025-Jan-13-21:04:26,ETL process started
+2025-Jan-13-21:04:26,EXTRACTION process started
+2025-Jan-13-21:04:30,EXTRACTION process finished
+2025-Jan-13-21:04:30,Transformed process started
+2025-Jan-13-21:04:30,Transformed process finished
+2025-Jan-13-21:04:30,Load process started
+2025-Jan-13-21:04:30,Load process finished
+2025-Jan-13-21:04:30,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:04:30,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:04:30,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:04:30,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:08:21,ETL process started
+2025-Jan-13-21:08:21,EXTRACTION process started
+2025-Jan-13-21:08:24,EXTRACTION process finished
+2025-Jan-13-21:08:24,Transformed process started
+2025-Jan-13-21:08:24,Transformed process finished
+2025-Jan-13-21:08:24,Load process started
+2025-Jan-13-21:08:24,Load process finished
+2025-Jan-13-21:08:24,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:08:24,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:08:24,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:08:24,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:12:48,ETL process started
+2025-Jan-13-21:12:48,EXTRACTION process started
+2025-Jan-13-21:12:59,EXTRACTION process finished
+2025-Jan-13-21:12:59,Transformed process started
+2025-Jan-13-21:12:59,Transformed process finished
+2025-Jan-13-21:12:59,Load process started
+2025-Jan-13-21:12:59,Load process finished
+2025-Jan-13-21:12:59,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:12:59,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:12:59,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:12:59,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:32:01,ETL process started
+2025-Jan-13-21:32:01,EXTRACTION process started
+2025-Jan-13-21:32:06,EXTRACTION process finished
+2025-Jan-13-21:32:06,Transformed process started
+2025-Jan-13-21:32:06,Transformed process finished
+2025-Jan-13-21:32:06,Load process started
+2025-Jan-13-21:32:06,Load process finished
+2025-Jan-13-21:32:06,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:32:06,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:32:06,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:32:06,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:32:55,ETL process started
+2025-Jan-13-21:32:55,EXTRACTION process started
+2025-Jan-13-21:32:56,EXTRACTION process finished
+2025-Jan-13-21:32:56,Transformed process started
+2025-Jan-13-21:32:56,Transformed process finished
+2025-Jan-13-21:32:56,Load process started
+2025-Jan-13-21:32:56,Load process finished
+2025-Jan-13-21:32:56,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:32:56,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:32:56,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:32:56,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
+2025-Jan-13-21:34:05,ETL process started
+2025-Jan-13-21:34:05,EXTRACTION process started
+2025-Jan-13-21:34:07,EXTRACTION process finished
+2025-Jan-13-21:34:07,Transformed process started
+2025-Jan-13-21:34:07,Transformed process finished
+2025-Jan-13-21:34:07,Load process started
+2025-Jan-13-21:34:07,Load process finished
+2025-Jan-13-21:34:07,Run query Select * From Countries_by_GDP
+2025-Jan-13-21:34:07,Result1               Country  GDP_USD_billions
+0              Tuvalu              0.06
+1               Nauru              0.15
+2            Kiribati              0.25
+3               Palau              0.26
+4    Marshall Islands              0.29
+..                ...               ...
+186             India           3736.88
+187           Germany           4308.85
+188             Japan           4409.74
+189             China          19373.59
+190     United States          26854.60
+
+[191 rows x 2 columns]
+2025-Jan-13-21:34:07,Run query Select * From Countries_by_GDP Where GDP_USD_billions > 100
+2025-Jan-13-21:34:07,Result2           Country  GDP_USD_billions
+0        Bulgaria            100.64
+1       Guatemala            102.31
+2            Oman            104.90
+3          Angola            117.88
+4           Kenya            118.13
+..            ...               ...
+64          India           3736.88
+65        Germany           4308.85
+66          Japan           4409.74
+67          China          19373.59
+68  United States          26854.60
+
+[69 rows x 2 columns]
